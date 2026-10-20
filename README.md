@@ -40,3 +40,8 @@ goal-driven interactions while enhancing the explainability through a transparen
 traceable information flow.
 
 <img width="1936" height="952" alt="AgenticFramework" src="https://github.com/user-attachments/assets/2a3f1745-5f15-4aa7-8236-e3e8a4fb27ae" />
+
+## Results
+
+<img width="677" height="277" alt="image" src="https://github.com/user-attachments/assets/93d0b0aa-4dcb-4db5-9ad9-246282bebf08" />
+
