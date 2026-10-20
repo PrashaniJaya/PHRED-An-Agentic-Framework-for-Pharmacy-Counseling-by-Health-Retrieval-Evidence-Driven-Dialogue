@@ -1,0 +1,210 @@
+{
+  "session_start": "2026-01-15T16:19:20.919517",
+  "turns": [
+    {
+      "timestamp": "2026-01-15T16:19:53.831541",
+      "user_input": "i took an ecp on the first day of my period, is there still a chance that i might be pregnant?",
+      "goal": "warn",
+      "retrieved_docs": [
+        {
+          "text": "Q: Hello doctor,After having intercourse with my husband, I had taken Unwanted 72 within 12 hours of intercourse. But, I missed my periods and got pregnant. Now, my question is will this ECP damage the fetus in any way? I also want to let you know that six months back, I had an abortion as my child was very low. Kindly suggest me, is it safe to continue my pregnancy with all these problems?\nA: Hel...",
+          "source": "json",
+          "similarity": 0.595
+        },
+        {
+          "text": "Q: Hi doctor,My age is 23 years and on the seventh day of my period. I had intercourse for the first time at 11 AM. Then, I had a sudden bleeding spot starting and I took I-pill at 6 PM. I have started nausea, feeling like vomiting, and next morning chills with fever, and weakness. So., I am worried about pregnancy. Any chance there is pregnancy?\nA: Hello. As you said it is your first time having ...",
+          "source": "json",
+          "similarity": 0.579
+        },
+        {
+          "text": "Q: Hello doctor,I am 17 years old. I had sex with my partner on the 24th day of the menustruation cycle. I used Today vaginal pill before intercourse. On the next day i.e. 25th day, within 30 hours, I also took i-pill to be sure not to be pregnant. Now my period which was on due is still missing. What are the chances of my pregnancy? What should I do to terminate it, if I am pregnant? Kindly help ...",
+          "source": "json",
+          "similarity": 0.577
+        }
+      ],
+      "rag_text": "[Source: json | Similarity: 0.595]\nQ: Hello doctor,After having intercourse with my husband, I had taken Unwanted 72 within 12 hours of intercourse. But, I missed my periods and got pregnant. Now, my question is will this ECP damage the fetus in any way? I also want to let you know that six months back, I had an abortion as my child was very low. Kindly suggest me, is it safe to continue my pregnancy with all these problems?\nA: Hel...\n\n[Source: json | Similarity: 0.579]\nQ: Hi doctor,My age is 23 years and on the seventh day of my period. I had intercourse for the first time at 11 AM. Then, I had a sudden bleeding spot starting and I took I-pill at 6 PM. I have started nausea, feeling like vomiting, and next morning chills with fever, and weakness. So., I am worried about pregnancy. Any chance there is pregnancy?\nA: Hello. As you said it is your first time having ...\n\n[Source: json | Similarity: 0.577]\nQ: Hello doctor,I am 17 years old. I had sex with my partner on the 24th day of the menustruation cycle. I used Today vaginal pill before intercourse. On the next day i.e. 25th day, within 30 hours, I also took i-pill to be sure not to be pregnant. Now my period which was on due is still missing. What are the chances of my pregnancy? What should I do to terminate it, if I am pregnant? Kindly help ...",
+      "final_output": "Taking an emergency contraceptive pill (ECP) on the first day of your period generally indicates a lower likelihood of pregnancy, as you are likely not in your fertile window. However, while ECPs are effective, they are not 100% guaranteed to prevent pregnancy. If you have concerns about potential pregnancy, especially if your period is late or if you experience unusual symptoms, it is advisable to take a pregnancy test or consult a healthcare professional for further evaluation."
+    },
+    {
+      "timestamp": "2026-01-15T16:20:46.469032",
+      "user_input": "is the ecp the same as the i-pill or one pill?",
+      "goal": "educate",
+      "retrieved_docs": [
+        {
+          "text": "Morning-after pill guide (Source: https://www.drugs.com/mtm/morning-after.html)",
+          "source": "https://www.drugs.com/mtm/morning-after.html",
+          "similarity": 0.445
+        },
+        {
+          "text": "Q: Hello doctor,Me and my partner had unprotected sex, and she took I-pill within 72 hours (but after 24 hours), and now after 8 to 9 days of taking the pill, she is having mild cramps similar to period and also mild bleeding (just a few spots), but the discharge is brownish in color, and this is the third day with cramps, although the bleeding is very less. Is it side effect of the pill or is it ...",
+          "source": "json",
+          "similarity": 0.399
+        },
+        {
+          "text": "Q: Hi doctor,I had unprotected sex approximately 18 hours ago. I am worried if I should take I-pill. I am already taking medication for PCOD since one year. There has been some improvement and my period is due in a day or two. The medication that I am taking is Calcarea phosphorica 200 and Jonosia Ashoka. I am a 22 year old female and my weight is 63 kg and height is 4\\11\". Should I take I-pill? D...",
+          "source": "json",
+          "similarity": 0.394
+        }
+      ],
+      "rag_text": "[Source: https://www.drugs.com/mtm/morning-after.html | Similarity: 0.445]\nMorning-after pill guide (Source: https://www.drugs.com/mtm/morning-after.html)\n\n[Source: json | Similarity: 0.399]\nQ: Hello doctor,Me and my partner had unprotected sex, and she took I-pill within 72 hours (but after 24 hours), and now after 8 to 9 days of taking the pill, she is having mild cramps similar to period and also mild bleeding (just a few spots), but the discharge is brownish in color, and this is the third day with cramps, although the bleeding is very less. Is it side effect of the pill or is it ...\n\n[Source: json | Similarity: 0.394]\nQ: Hi doctor,I had unprotected sex approximately 18 hours ago. I am worried if I should take I-pill. I am already taking medication for PCOD since one year. There has been some improvement and my period is due in a day or two. The medication that I am taking is Calcarea phosphorica 200 and Jonosia Ashoka. I am a 22 year old female and my weight is 63 kg and height is 4\\11\". Should I take I-pill? D...",
+      "final_output": "The Emergency Contraceptive Pill (ECP) is a term that encompasses various medications used to prevent pregnancy after unprotected intercourse. The I-pill is one specific brand of ECP, commonly used in many regions, and it is designed to be taken as a single dose within 72 hours of unprotected sex. Other brands, such as Unwanted 72, also serve the same purpose and may contain similar active ingredients. While they function similarly, it is essential to consult a healthcare professional for personalized advice regarding their use and potential side effects."
+    },
+    {
+      "timestamp": "2026-01-15T16:21:40.887518",
+      "user_input": "will i still get the extra bleeding due to this?",
+      "goal": "warn",
+      "retrieved_docs": [
+        {
+          "text": "Q: Hi doctor,I had periods on 26th and had protected sex on the 4th of the following month. After that, I took an i-pill within 2 hours. Now, I am bleeding like my periods ie after 8 days of i-pill. Is this my period? If not, can I expect my periods on the coming 26th?\nA: Hi. It is a with ChatDoctor.  As you are bleeding now, your menses going to be irregular mostly. Now your period is going to de...",
+          "source": "json",
+          "similarity": 0.249
+        },
+        {
+          "text": "Q: Hello doctor,I had sexual intercourse on the 14th day of my cycle but took I-pill after three hours of it. I had bleeding on date similar to my period date after 16 days but it was light bleeding which lasted for three to four days. What does this mean?\nA: Hi, Welcome to Chat Doctor forum. Since you have taken the emergency pill within 72 hours of intercourse there is no chance of pregnancy. Th...",
+          "source": "json",
+          "similarity": 0.233
+        },
+        {
+          "text": "Q: Hi doctor,I and my fiancee had an intercourse a month back. Her periods had ended three days before that. Her menstrual cycles range from 26 to 30 days (usually 28). I did not use a condom and pulled out before the climax. She took an I-pill at the 46th hour after intercourse). She got bleeding (like the last day of the period) starting three days later and continued until the fifth day. Her pe...",
+          "source": "json",
+          "similarity": 0.203
+        }
+      ],
+      "rag_text": "[Source: json | Similarity: 0.249]\nQ: Hi doctor,I had periods on 26th and had protected sex on the 4th of the following month. After that, I took an i-pill within 2 hours. Now, I am bleeding like my periods ie after 8 days of i-pill. Is this my period? If not, can I expect my periods on the coming 26th?\nA: Hi. It is a with ChatDoctor.  As you are bleeding now, your menses going to be irregular mostly. Now your period is going to de...\n\n[Source: json | Similarity: 0.233]\nQ: Hello doctor,I had sexual intercourse on the 14th day of my cycle but took I-pill after three hours of it. I had bleeding on date similar to my period date after 16 days but it was light bleeding which lasted for three to four days. What does this mean?\nA: Hi, Welcome to Chat Doctor forum. Since you have taken the emergency pill within 72 hours of intercourse there is no chance of pregnancy. Th...\n\n[Source: json | Similarity: 0.203]\nQ: Hi doctor,I and my fiancee had an intercourse a month back. Her periods had ended three days before that. Her menstrual cycles range from 26 to 30 days (usually 28). I did not use a condom and pulled out before the climax. She took an I-pill at the 46th hour after intercourse). She got bleeding (like the last day of the period) starting three days later and continued until the fifth day. Her pe...",
+      "final_output": "Taking an emergency contraceptive pill (I-pill) can lead to changes in your menstrual cycle, including irregular bleeding. This bleeding may occur around the time your period is due and can resemble a lighter or different flow than your typical menstruation. It is common for cycles to become irregular after taking the I-pill, and you may experience unexpected bleeding or changes in your next period. If you have concerns about the nature of the bleeding or your menstrual cycle, it is advisable to consult a healthcare professional for personalized guidance."
+    },
+    {
+      "timestamp": "2026-01-15T16:22:35.745660",
+      "user_input": "does this mean that i might hve to wait two months to get my next period?",
+      "goal": "warn",
+      "retrieved_docs": [
+        {
+          "text": "Q: Hello doctor,I am 17 years old. I had sex with my partner on the 24th day of the menustruation cycle. I used Today vaginal pill before intercourse. On the next day i.e. 25th day, within 30 hours, I also took i-pill to be sure not to be pregnant. Now my period which was on due is still missing. What are the chances of my pregnancy? What should I do to terminate it, if I am pregnant? Kindly help ...",
+          "source": "json",
+          "similarity": 0.41
+        },
+        {
+          "text": "Q: Hello doctor,My husband is away from the past one and half years due to his work. I visited him for 15 days. I had my normal periods there on the 31st of last month. Since I got a bit anxious about getting pregnant, I had four I-pills in these two weeks for protection. I then returned back on the 15th of this month. I had very scanty periods between the 24th to the 28th. And that is it. I had n...",
+          "source": "json",
+          "similarity": 0.403
+        },
+        {
+          "text": "Q: Hello doctor,I had sex two weeks back. My partner used a condom. But, we had a doubt that the condom might have torn. Hence, l took an I-pill within seven hours of sex. I am not sure of bleeding after taking I-pill, but there was some white fluid discharge for few days. My menstruation cycle was very regular. But, this time l had missed it, which was due two days back. Is this normal? Am I preg...",
+          "source": "json",
+          "similarity": 0.373
+        }
+      ],
+      "rag_text": "[Source: json | Similarity: 0.41]\nQ: Hello doctor,I am 17 years old. I had sex with my partner on the 24th day of the menustruation cycle. I used Today vaginal pill before intercourse. On the next day i.e. 25th day, within 30 hours, I also took i-pill to be sure not to be pregnant. Now my period which was on due is still missing. What are the chances of my pregnancy? What should I do to terminate it, if I am pregnant? Kindly help ...\n\n[Source: json | Similarity: 0.403]\nQ: Hello doctor,My husband is away from the past one and half years due to his work. I visited him for 15 days. I had my normal periods there on the 31st of last month. Since I got a bit anxious about getting pregnant, I had four I-pills in these two weeks for protection. I then returned back on the 15th of this month. I had very scanty periods between the 24th to the 28th. And that is it. I had n...\n\n[Source: json | Similarity: 0.373]\nQ: Hello doctor,I had sex two weeks back. My partner used a condom. But, we had a doubt that the condom might have torn. Hence, l took an I-pill within seven hours of sex. I am not sure of bleeding after taking I-pill, but there was some white fluid discharge for few days. My menstruation cycle was very regular. But, this time l had missed it, which was due two days back. Is this normal? Am I preg...",
+      "final_output": "The use of emergency contraceptive pills, such as the I-pill, can disrupt your menstrual cycle, potentially leading to a delay in your next period. It is not uncommon for menstruation to be irregular or delayed after taking such medications, and some individuals may experience a longer wait for their next cycle, possibly up to two months. If your period is significantly delayed, it is advisable to take a pregnancy test and consult a healthcare professional for personalized guidance."
+    },
+    {
+      "timestamp": "2026-01-15T16:23:22.382135",
+      "user_input": "what should i do if my period does not come back?",
+      "goal": "suggest",
+      "retrieved_docs": [
+        {
+          "text": "Q: Hello doctor,My husband is away from the past one and half years due to his work. I visited him for 15 days. I had my normal periods there on the 31st of last month. Since I got a bit anxious about getting pregnant, I had four I-pills in these two weeks for protection. I then returned back on the 15th of this month. I had very scanty periods between the 24th to the 28th. And that is it. I had n...",
+          "source": "json",
+          "similarity": 0.426
+        },
+        {
+          "text": "Q: Hello doctor,After having intercourse with my husband, I had taken Unwanted 72 within 12 hours of intercourse. But, I missed my periods and got pregnant. Now, my question is will this ECP damage the fetus in any way? I also want to let you know that six months back, I had an abortion as my child was very low. Kindly suggest me, is it safe to continue my pregnancy with all these problems?\nA: Hel...",
+          "source": "json",
+          "similarity": 0.425
+        },
+        {
+          "text": "Q: Hello doctor,I am 17 years old. I had sex with my partner on the 24th day of the menustruation cycle. I used Today vaginal pill before intercourse. On the next day i.e. 25th day, within 30 hours, I also took i-pill to be sure not to be pregnant. Now my period which was on due is still missing. What are the chances of my pregnancy? What should I do to terminate it, if I am pregnant? Kindly help ...",
+          "source": "json",
+          "similarity": 0.41
+        }
+      ],
+      "rag_text": "[Source: json | Similarity: 0.426]\nQ: Hello doctor,My husband is away from the past one and half years due to his work. I visited him for 15 days. I had my normal periods there on the 31st of last month. Since I got a bit anxious about getting pregnant, I had four I-pills in these two weeks for protection. I then returned back on the 15th of this month. I had very scanty periods between the 24th to the 28th. And that is it. I had n...\n\n[Source: json | Similarity: 0.425]\nQ: Hello doctor,After having intercourse with my husband, I had taken Unwanted 72 within 12 hours of intercourse. But, I missed my periods and got pregnant. Now, my question is will this ECP damage the fetus in any way? I also want to let you know that six months back, I had an abortion as my child was very low. Kindly suggest me, is it safe to continue my pregnancy with all these problems?\nA: Hel...\n\n[Source: json | Similarity: 0.41]\nQ: Hello doctor,I am 17 years old. I had sex with my partner on the 24th day of the menustruation cycle. I used Today vaginal pill before intercourse. On the next day i.e. 25th day, within 30 hours, I also took i-pill to be sure not to be pregnant. Now my period which was on due is still missing. What are the chances of my pregnancy? What should I do to terminate it, if I am pregnant? Kindly help ...",
+      "final_output": "If your period does not return as expected, it is important to consider several factors. The use of emergency contraceptive pills, such as I-pills or Unwanted 72, can disrupt your menstrual cycle and may lead to missed periods. Stress and anxiety about potential pregnancy can also affect your cycle. If you have engaged in unprotected intercourse or have concerns about pregnancy, it is advisable to take a pregnancy test. If your period remains absent or if you have further concerns, consulting a healthcare professional is recommended for personalized guidance."
+    },
+    {
+      "timestamp": "2026-01-15T16:23:50.689646",
+      "user_input": "what happens if i take another pill?",
+      "goal": "warn",
+      "retrieved_docs": [
+        {
+          "text": "Q: Hi doctor,I had unprotected sex approximately 18 hours ago. I am worried if I should take I-pill. I am already taking medication for PCOD since one year. There has been some improvement and my period is due in a day or two. The medication that I am taking is Calcarea phosphorica 200 and Jonosia Ashoka. I am a 22 year old female and my weight is 63 kg and height is 4\\11\". Should I take I-pill? D...",
+          "source": "json",
+          "similarity": 0.503
+        },
+        {
+          "text": "Q: Hello doctor,I am 17 years old. I had sex with my partner on the 24th day of the menustruation cycle. I used Today vaginal pill before intercourse. On the next day i.e. 25th day, within 30 hours, I also took i-pill to be sure not to be pregnant. Now my period which was on due is still missing. What are the chances of my pregnancy? What should I do to terminate it, if I am pregnant? Kindly help ...",
+          "source": "json",
+          "similarity": 0.491
+        },
+        {
+          "text": "Q: Hi doctor,I had periods on 26th and had protected sex on the 4th of the following month. After that, I took an i-pill within 2 hours. Now, I am bleeding like my periods ie after 8 days of i-pill. Is this my period? If not, can I expect my periods on the coming 26th?\nA: Hi. It is a with ChatDoctor.  As you are bleeding now, your menses going to be irregular mostly. Now your period is going to de...",
+          "source": "json",
+          "similarity": 0.484
+        }
+      ],
+      "rag_text": "[Source: json | Similarity: 0.503]\nQ: Hi doctor,I had unprotected sex approximately 18 hours ago. I am worried if I should take I-pill. I am already taking medication for PCOD since one year. There has been some improvement and my period is due in a day or two. The medication that I am taking is Calcarea phosphorica 200 and Jonosia Ashoka. I am a 22 year old female and my weight is 63 kg and height is 4\\11\". Should I take I-pill? D...\n\n[Source: json | Similarity: 0.491]\nQ: Hello doctor,I am 17 years old. I had sex with my partner on the 24th day of the menustruation cycle. I used Today vaginal pill before intercourse. On the next day i.e. 25th day, within 30 hours, I also took i-pill to be sure not to be pregnant. Now my period which was on due is still missing. What are the chances of my pregnancy? What should I do to terminate it, if I am pregnant? Kindly help ...\n\n[Source: json | Similarity: 0.484]\nQ: Hi doctor,I had periods on 26th and had protected sex on the 4th of the following month. After that, I took an i-pill within 2 hours. Now, I am bleeding like my periods ie after 8 days of i-pill. Is this my period? If not, can I expect my periods on the coming 26th?\nA: Hi. It is a with ChatDoctor.  As you are bleeding now, your menses going to be irregular mostly. Now your period is going to de...",
+      "final_output": "Taking an additional pill, such as an emergency contraceptive like the I-pill, can lead to various outcomes depending on timing and individual circumstances. If taken shortly after unprotected intercourse, it may reduce the risk of pregnancy; however, taking it multiple times within a short period can cause hormonal imbalances, leading to irregular menstrual cycles or unexpected bleeding. If you are already experiencing changes in your menstrual cycle or have concerns about pregnancy, it is advisable to consult a healthcare professional for personalized guidance. This information is general and should not replace professional medical advice."
+    },
+    {
+      "timestamp": "2026-01-15T16:24:34.252298",
+      "user_input": "are there any differences between ecp and brands",
+      "goal": "educate",
+      "retrieved_docs": [
+        {
+          "text": "Emergency contraception info (Source: https://www.drugs.com/condition/postcoital-contraception.html)",
+          "source": "https://www.drugs.com/condition/postcoital-contraception.html",
+          "similarity": 0.34
+        },
+        {
+          "text": "Q: Hello doctor,I am a 25 year old unmarried girl. I am curious to know about the various options for abortions (medical and surgical) and up to how many days they can be done. I tried to look online but, I got several different answers. So, I thought of asking a doctor about it. Also, I want to know how safe is emergency contraceptive pill. I have PCOD and I am on ayurvedic treatment since the la...",
+          "source": "json",
+          "similarity": 0.139
+        },
+        {
+          "text": "Morning-after pill guide (Source: https://www.drugs.com/mtm/morning-after.html)",
+          "source": "https://www.drugs.com/mtm/morning-after.html",
+          "similarity": 0.092
+        }
+      ],
+      "rag_text": "[Source: https://www.drugs.com/condition/postcoital-contraception.html | Similarity: 0.34]\nEmergency contraception info (Source: https://www.drugs.com/condition/postcoital-contraception.html)\n\n[Source: json | Similarity: 0.139]\nQ: Hello doctor,I am a 25 year old unmarried girl. I am curious to know about the various options for abortions (medical and surgical) and up to how many days they can be done. I tried to look online but, I got several different answers. So, I thought of asking a doctor about it. Also, I want to know how safe is emergency contraceptive pill. I have PCOD and I am on ayurvedic treatment since the la...\n\n[Source: https://www.drugs.com/mtm/morning-after.html | Similarity: 0.092]\nMorning-after pill guide (Source: https://www.drugs.com/mtm/morning-after.html)",
+      "final_output": "Emergency contraceptive pills (ECPs), such as I-pill and Unwanted 72, are available as over-the-counter options to prevent pregnancy after unprotected intercourse. While these brands may differ in formulation and dosage, their primary function is to inhibit ovulation or fertilization. The effectiveness of ECPs can vary based on the timing of administration relative to intercourse, with earlier use generally yielding better outcomes. It is important to consult a healthcare professional for personalized advice regarding the choice of ECP and any potential side effects."
+    },
+    {
+      "timestamp": "2026-01-15T16:25:15.057121",
+      "followup_goal": "educate",
+      "followup_prompt": "Would you like me to define what this medicine is?",
+      "followup_answer": "Explanation:\nHere are the facts I found:\n- Copper works by Copper Ions Toxic To Sperm\n- Copper Iud contains Copper\n- Copper works by Inhibits Fertilization"
+    },
+    {
+      "timestamp": "2026-01-15T16:25:15.178246",
+      "followup_goal": "warn",
+      "followup_prompt": "Should I tell you when this medicine should not be taken?",
+      "followup_answer": "Important safety information:\n('[Source: json | Similarity: 0.488]\\nQ: Hello doctor,We are a newly married couple and had sex two days back without any prevention from pregnancy. Could you please suggest any prevention tablet which can prevent the pregnancy after sex without any side effects?\\nA: Hello, Welcome to Chat Doctor forum. If you wish for emergency contraception then you can opt for an emergency contraceptive pill like I-pill or Unwanted 72 (single dose),...\\n\\n[Source: json | Similarity: 0.433]\\nQ: Hello doctor,After having intercourse with my husband, I had taken Unwanted 72 within 12 hours of intercourse. But, I missed my periods and got pregnant. Now, my question is will this ECP damage the fetus in any way? I also want to let you know that six months back, I had an abortion as my child was very low. Kindly suggest me, is it safe to continue my pregnancy with all these problems?\\nA: Hel...\\n\\n[Source: json | Similarity: 0.418]\\nQ: Hi doctor,I had unprotected sex, and I am not sure whether we did an ejaculation or not. Suddenly, I took four Yasmin pills on the spot today. Am I safe from unwanted pregnancy? I need your urgent advice. Please help.\\nA: Hi, Welcome to Chat Doctor forum. You are trying the Yuzpe method. In this, a woman uses birth control pills as emergency contraception (EC) every day. By combining pills in a ...', [{'text': 'Q: Hello doctor,We are a newly married couple and had sex two days back without any prevention from pregnancy. Could you please suggest any prevention tablet which can prevent the pregnancy after sex without any side effects?\\nA: Hello, Welcome to Chat Doctor forum. If you wish for emergency contraception then you can opt for an emergency contraceptive pill like I-pill or Unwanted 72 (single dose),...', 'source': 'json', 'similarity': 0.488}, {'text': 'Q: Hello doctor,After having intercourse with my husband, I had taken Unwanted 72 within 12 hours of intercourse. But, I missed my periods and got pregnant. Now, my question is will this ECP damage the fetus in any way? I also want to let you know that six months back, I had an abortion as my child was very low. Kindly suggest me, is it safe to continue my pregnancy with all these problems?\\nA: Hel...', 'source': 'json', 'similarity': 0.433}, {'text': 'Q: Hi doctor,I had unprotected sex, and I am not sure whether we did an ejaculation or not. Suddenly, I took four Yasmin pills on the spot today. Am I safe from unwanted pregnancy? I need your urgent advice. Please help.\\nA: Hi, Welcome to Chat Doctor forum. You are trying the Yuzpe method. In this, a woman uses birth control pills as emergency contraception (EC) every day. By combining pills in a ...', 'source': 'json', 'similarity': 0.418}])"
+    },
+    {
+      "timestamp": "2026-01-15T16:25:15.310995",
+      "followup_goal": "suggest",
+      "followup_prompt": "Do you want to know if it’s available over the counter or by prescription?",
+      "followup_answer": "Based on medical dialogues: ('[Source: https://www.drugs.com/mtm/morning-after.html | Similarity: 0.431]\\nMorning-after pill guide (Source: https://www.drugs.com/mtm/morning-after.html)\\n\\n[Source: json | Similarity: 0.39]\\nQ: Hello doctor,I am a 25 year old unmarried girl. I am curious to know about the various options for abortions (medical and surgical) and up to how many days they can be done. I tried to look online but, I got several different answers. So, I thought of asking a doctor about it. Also, I want to know how safe is emergency contraceptive pill. I have PCOD and I am on ayurvedic treatment since the la...\\n\\n[Source: https://www.drugs.com/condition/postcoital-contraception.html | Similarity: 0.371]\\nEmergency contraception info (Source: https://www.drugs.com/condition/postcoital-contraception.html)', [{'text': 'Morning-after pill guide (Source: https://www.drugs.com/mtm/morning-after.html)', 'source': 'https://www.drugs.com/mtm/morning-after.html', 'similarity': 0.431}, {'text': 'Q: Hello doctor,I am a 25 year old unmarried girl. I am curious to know about the various options for abortions (medical and surgical) and up to how many days they can be done. I tried to look online but, I got several different answers. So, I thought of asking a doctor about it. Also, I want to know how safe is emergency contraceptive pill. I have PCOD and I am on ayurvedic treatment since the la...', 'source': 'json', 'similarity': 0.39}, {'text': 'Emergency contraception info (Source: https://www.drugs.com/condition/postcoital-contraception.html)', 'source': 'https://www.drugs.com/condition/postcoital-contraception.html', 'similarity': 0.371}])\n\nFrom medical facts: Here are the facts I found:\n- Copper works by Copper Ions Toxic To Sperm\n- Copper Iud contains Copper\n- Copper works by Inhibits Fertilization"
+    }
+  ],
+  "followups_suggested": [
+    {
+      "educate": [
+        "Would you like me to define what this medicine is?"
+      ]
+    },
+    {
+      "warn": [
+        "Should I tell you when this medicine should not be taken?"
+      ]
+    },
+    {
+      "suggest": [
+        "Do you want to know if it’s available over the counter or by prescription?"
+      ]
+    }
+  ],
+  "user_followup_decision": "accepted",
+  "session_end": "2026-01-15T16:25:15.310995"
+}

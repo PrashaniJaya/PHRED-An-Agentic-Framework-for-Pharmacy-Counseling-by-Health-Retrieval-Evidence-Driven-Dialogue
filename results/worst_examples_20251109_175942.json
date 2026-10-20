@@ -1,0 +1,35 @@
+[
+  {
+    "user_input": "Hello doctor,I had sex on 13th of last month (last period was 31st before). The condom burst inside me and cum went inside. So after five to six hours I took unwanted 72. Then from 17th to 22nd there was bleeding and cramps. But now it is about one month and I did not get my periods. Is there any chance I am pregnant?",
+    "gold_input": "Hello doctor,I had sex on 13th of last month (last period was 31st before). The condom burst inside me and cum went inside. So after five to six hours I took unwanted 72. Then from 17th to 22nd there was bleeding and cramps. But now it is about one month and I did not get my periods. Is there any chance I am pregnant?",
+    "model_answer": "Hi. Bleeding and cramps may be side effects of Unwanted 72, which can alter your menstrual cycle. Since your period is late, take a pregnancy test. If positive or if you have concerns, consult your doctor.",
+    "gold_answer": "Hello, Welcome to Chat Doctor forum. Yes, there is some chance. Do urine pregnancy tests. If the test comes positive then there is pregnancy. And if the test comes negative then it is disturbed menses due to emergency pills. Here are some detailed explanations: Unwanted 72 is an emergency contraceptive pill and it can disturb your menses. It can disturb the cycle for two to three cycles. You may have irregular periods or delayed periods also. At the same time, it is not 10% effective to prevent pregnancy. There is some chance of failure even if taken within the time period. You have periods on Jan 31st and have intercourse on 13 Feb which is almost near ovulation period. After taking Unwanted 72 there is with ChatDoctor.  that does not mean period. After that, it is almost a month. So do a urine pregnancy test for confirmation. If it is negative, then you can take tablet Primoult N daily for five days and then wait for periods. It should come in 10 days after the last tablet. In case if the test comes positive then you are pregnant and you can continue or terminate pregnancy. Do",
+    "match_score": 1.0000004768371582,
+    "bertscore_precision": 0.5856524109840393,
+    "bertscore_recall": 0.47084853053092957,
+    "bertscore_f1": 0.5220129489898682,
+    "semantic_similarity": 0.6477307081222534
+  },
+  {
+    "user_input": "Hello doctor,I am 17 years old. I had sex with my partner on the 24th day of the menustruation cycle. I used Today vaginal pill before intercourse. On the next day i.e. 25th day, within 30 hours, I also took i-pill to be sure not to be pregnant. Now my period which was on due is still missing. What are the chances of my pregnancy? What should I do to terminate it, if I am pregnant? Kindly help me out.",
+    "gold_input": "Hello doctor,I am 17 years old. I had sex with my partner on the 24th day of the menustruation cycle. I used Today vaginal pill before intercourse. On the next day i.e. 25th day, within 30 hours, I also took i-pill to be sure not to be pregnant. Now my period which was on due is still missing. What are the chances of my pregnancy? What should I do to terminate it, if I am pregnant? Kindly help me out.",
+    "model_answer": "Hi. You've used both the Today vaginal pill and the i-pill, so the chance of pregnancy is low, but not zero. If your period is over a week late, take a pregnancy test. If pregnant, consult a doctor.",
+    "gold_answer": "Hello. I have reviewed your query thoroughly. I-pill or emergency contraceptive pills have very minimal chance of failure if taken immediately after intercourse within 24 hours and chances of failure gradually increase after that even if taken within 72 hours. There is about one to two percent chance of failure of an emergency pill or i-pill in your case. But we can be quite sure of its success if with ChatDoctor.  Based on the dates given by you, today must be 8 days following the date of the intercourse. In that case, to find out if you are pregnant, you can get a serum beta hCG (human chorionic gonadotrophin) testing done. For the urine pregnancy tests to show the result if pregnant, it must be at least 10 to 14 days following intercourse. If you want to know urgently whether you are pregnant, you can get serum beta hCG testing. If you can wait another week, you can get a urine pregnancy testing, which if positive must be followed up by ultrasound imaging. Only after then and after consulting an obstetrician, should the abortion be planned under guidance. Furthermore, if you are sexually active regularly, it is better to choose other regular contraceptive methods after consulting an obstetrician and gynecologist instead of i-pill. I-pills are meant to be taken only in case of unexpected accidental unprotected sex, but not on a regular basis.",
+    "match_score": 0.9999998807907104,
+    "bertscore_precision": 0.6029770970344543,
+    "bertscore_recall": 0.4782320559024811,
+    "bertscore_f1": 0.5334082841873169,
+    "semantic_similarity": 0.5559701919555664
+  },
+  {
+    "user_input": "Hello doctor,I and my friend involved in physical intimacy a few days back and there was no ejeculation and penetration was only for 2 minutes. After that considering precum she took Unwanted 72 within 3 hours. She had bleeding after six days. She has regular cycle of 28 to 30 days and her last period was 30 days back. She did not have period till now.We performed urine pregnancy test at home. All are negative. Is it confirmed that she is not pregnant? If yes, how long ideally she should wait for period after bleeding? Is there any medicine required?",
+    "gold_input": "Hello doctor,I and my friend involved in physical intimacy a few days back and there was no ejeculation and penetration was only for 2 minutes. After that considering precum she took Unwanted 72 within 3 hours. She had bleeding after six days. She has regular cycle of 28 to 30 days and her last period was 30 days back. She did not have period till now.We performed urine pregnancy test at home. All are negative. Is it confirmed that she is not pregnant? If yes, how long ideally she should wait for period after bleeding? Is there any medicine required?",
+    "model_answer": "Hi. The bleeding is likely a side effect of Unwanted 72, which can alter the menstrual cycle. Negative pregnancy tests suggest she's not pregnant. If her period doesn't start in a week or two, consult a doctor.",
+    "gold_answer": "Hello, Welcome to Chat Doctor forum. As she had a with ChatDoctor.  However, the conclusive test for ruling out pregnancy remains serum beta hCG test which is a blood test. if hCG levels are less than 5 mlU, then she is surely not pregnant. Also, now she should be expecting her menses only after 10 more days as she had her bleed marking the start of her fresh cycle. Just get the serum beta hCG test done to get conclusive results. She can wait for her menses.",
+    "match_score": 1.0,
+    "bertscore_precision": 0.5971663594245911,
+    "bertscore_recall": 0.507110595703125,
+    "bertscore_f1": 0.5484663844108582,
+    "semantic_similarity": 0.576714277267456
+  }
+]

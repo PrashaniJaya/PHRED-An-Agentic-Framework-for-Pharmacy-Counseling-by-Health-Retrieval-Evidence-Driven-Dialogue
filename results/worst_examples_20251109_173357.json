@@ -1,0 +1,35 @@
+[
+  {
+    "user_input": "Hi doctor,I had periods on 26th and had protected sex on the 4th of the following month. After that, I took an i-pill within 2 hours. Now, I am bleeding like my periods ie after 8 days of i-pill. Is this my period? If not, can I expect my periods on the coming 26th?",
+    "gold_input": "Hi doctor,I had periods on 26th and had protected sex on the 4th of the following month. After that, I took an i-pill within 2 hours. Now, I am bleeding like my periods ie after 8 days of i-pill. Is this my period? If not, can I expect my periods on the coming 26th?",
+    "model_answer": "The bleeding you are experiencing after taking the i-pill is likely a withdrawal bleed, which is a common side effect of emergency contraception due to the hormonal changes it induces. This can cause your menstrual cycle to become irregular, so it is possible that your next period may not occur on its usual schedule. If your period does not arrive by the expected date, it is advisable to wait a week and then take a home pregnancy test to rule out pregnancy. If the test is negative and your period still does not start, you may repeat the test after another week. If you have further concerns or if your period remains irregular, consulting with a gynecologist would be beneficial for personalized advice and reassurance.",
+    "gold_answer": "Hi. It is a with ChatDoctor.  As you are bleeding now, your menses going to be irregular mostly. Now your period is going to delay mostly and very little chance that it comes on time. I-pill is a hormonal pill so it can disturb your normal cycle. With",
+    "match_score": 1.0000001192092896,
+    "bertscore_precision": 0.5482213497161865,
+    "bertscore_recall": 0.6070436239242554,
+    "bertscore_f1": 0.576134979724884,
+    "semantic_similarity": 0.6562396287918091
+  },
+  {
+    "user_input": "Hello doctor,I had sexual intercourse on the 14th day of my cycle but took I-pill after three hours of it. I had bleeding on date similar to my period date after 16 days but it was light bleeding which lasted for three to four days. What does this mean?",
+    "gold_input": "Hello doctor,I had sexual intercourse on the 14th day of my cycle but took I-pill after three hours of it. I had bleeding on date similar to my period date after 16 days but it was light bleeding which lasted for three to four days. What does this mean?",
+    "model_answer": "The symptoms and bleeding patterns you are experiencing are likely due to the hormonal effects of the emergency contraceptive pill (I-pill) you took. The I-pill contains high doses of hormones that can cause irregular menstrual cycles, spotting, and other side effects such as bloating, nausea, headaches, and mood swings. The light bleeding you experienced could be a withdrawal bleed, which is common after taking emergency contraception, rather than implantation bleeding. Since you took the pill within the recommended 72-hour window, the likelihood of pregnancy is low. However, to be certain, a blood test for hCG can be conducted, especially if your period is delayed. If your symptoms persist or you have further concerns, consulting with a healthcare provider is advisable.",
+    "gold_answer": "Hi, Welcome to Chat Doctor forum. Since you have taken the emergency pill within 72 hours of intercourse there is no chance of pregnancy. This could be with ChatDoctor.  So relax and do not worry. However, if you have a doubt then get back to me. Take care. For more information consult an obstetrician and gynecologist online",
+    "match_score": 1.000000238418579,
+    "bertscore_precision": 0.5513320565223694,
+    "bertscore_recall": 0.6037545204162598,
+    "bertscore_f1": 0.5763537883758545,
+    "semantic_similarity": 0.5680882334709167
+  },
+  {
+    "user_input": "Hello doctor,My wife had unprotected sex with me last night and it was her seventh day of the period. So should I give her Unwanted 72 or is there any chance of getting pregnant and can you tell me the side effects which she will face after taking Unwanted 72?",
+    "gold_input": "Hello doctor,My wife had unprotected sex with me last night and it was her seventh day of the period. So should I give her Unwanted 72 or is there any chance of getting pregnant and can you tell me the side effects which she will face after taking Unwanted 72?",
+    "model_answer": "If your wife had unprotected sex on the seventh day of her menstrual cycle and her cycles are regular, the likelihood of pregnancy is low, as ovulation typically occurs around day 14 in a 28-day cycle. However, if her cycles are shorter or irregular, the fertile window may vary, and taking an emergency contraceptive pill like Unwanted 72 within 72 hours can help prevent pregnancy. Unwanted 72 contains levonorgestrel, which works by preventing ovulation and thickening cervical mucus. Common side effects include nausea, vomiting, breast tenderness, and irregular menstrual bleeding. If she experiences severe side effects or if her period is significantly delayed, it is advisable to consult a healthcare provider. For peace of mind, a urine pregnancy test can be taken 7 days after the last sexual activity.",
+    "gold_answer": "Hi. It is better if you send me her detailed gynecological, obstetric, medical, surgical,  ChatDoctor.  If she has short irregular cycles of 28 days or less, then it is better to have Ipill as in regular cycles of 28 days there is a fertile period from day 8 to day 13. So, better to have I-pill within 48 to 72 hours post-sex without vomitings. She can have with",
+    "match_score": 1.0,
+    "bertscore_precision": 0.5632166862487793,
+    "bertscore_recall": 0.5917056202888489,
+    "bertscore_f1": 0.5771098136901855,
+    "semantic_similarity": 0.5908353924751282
+  }
+]

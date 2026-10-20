@@ -1,0 +1,35 @@
+[
+  {
+    "user_input": "Hello doctor,I had sex on 13th of last month (last period was 31st before). The condom burst inside me and cum went inside. So after five to six hours I took unwanted 72. Then from 17th to 22nd there was bleeding and cramps. But now it is about one month and I did not get my periods. Is there any chance I am pregnant?",
+    "gold_input": "Hello doctor,I had sex on 13th of last month (last period was 31st before). The condom burst inside me and cum went inside. So after five to six hours I took unwanted 72. Then from 17th to 22nd there was bleeding and cramps. But now it is about one month and I did not get my periods. Is there any chance I am pregnant?",
+    "model_answer": "Hi. Bleeding and cramps may be side effects of Unwanted 72, which can alter your menstrual cycle. Since your period is late, take a pregnancy test. If positive or if you have concerns, consult your doctor.",
+    "gold_answer": "100% sure shot way of knowing that you are pregnant or not is through blood test for beta Chat Doctor. You can try out this method only after a week delay in your expected date of menses. Please note that if you have missed your menses by more than two weeks then you need to go for urine pregnancy test followed by blood test for beta Chat Doctor.",
+    "match_score": 1.0000004768371582,
+    "bertscore_precision": 0.5410230755805969,
+    "bertscore_recall": 0.5069289803504944,
+    "bertscore_f1": 0.5234214067459106,
+    "semantic_similarity": 0.3481711745262146
+  },
+  {
+    "user_input": "Hello doctor,We just had sex about seven hours ago, and we did it without any protection. So my penis was inside her vagina and we did a handful of up and down movement (she was on top of me, basically sitting on me- cowgirl position), and we decided to stop because of the consequences unsafe sex may lead up to. My concern is that although we stopped way before I could have reached orgasm, precum could have secreted out of me. I am considering buying her Trust pills as it is said to work as an ECP would. In my country, Plan B is not available.",
+    "gold_input": "Hello doctor,We just had sex about seven hours ago, and we did it without any protection. So my penis was inside her vagina and we did a handful of up and down movement (she was on top of me, basically sitting on me- cowgirl position), and we decided to stop because of the consequences unsafe sex may lead up to. My concern is that although we stopped way before I could have reached orgasm, precum could have secreted out of me. I am considering buying her Trust pills as it is said to work as an ECP would. In my country, Plan B is not available.",
+    "model_answer": "Hi. It's normal to worry about pregnancy from precum. Trust pills, containing levonorgestrel, are an effective emergency contraceptive if taken within 72 hours. The chance of pregnancy is low.",
+    "gold_answer": "1. The most important thing for you is to get tested for STDs.2. Yes, you can take emergency contraceptive pill, but if she has already conceived then nothing will help.3. Also, you need to know that Emergency Contraception Pill does not protect against HIV or other Sexually Transmitted Diseases.4. You should also know that Emergency Contraception Pill has some side effects like nausea, vomiting, abdominal pain, breast tenderness.",
+    "match_score": 1.0000001192092896,
+    "bertscore_precision": 0.5592055320739746,
+    "bertscore_recall": 0.5075610280036926,
+    "bertscore_f1": 0.5321332216262817,
+    "semantic_similarity": 0.41660332679748535
+  },
+  {
+    "user_input": "Hi doctor,I had unprotected sex, and I am not sure whether we did an ejaculation or not. Suddenly, I took four Yasmin pills on the spot today. Am I safe from unwanted pregnancy? I need your urgent advice. Please help.",
+    "gold_input": "Hi doctor,I had unprotected sex, and I am not sure whether we did an ejaculation or not. Suddenly, I took four Yasmin pills on the spot today. Am I safe from unwanted pregnancy? I need your urgent advice. Please help.",
+    "model_answer": "Hi. Taking four Yasmin pills is not recommended for emergency contraception and may not prevent pregnancy. Use a dedicated emergency contraceptive like Plan B (levonorgestrel) and consult a healthcare provider for guidance.",
+    "gold_answer": "1. Yes, it is safe to take emergency contraceptive pill as soon as possible after having unprotected intercourse.2. You can also use intrauterine device (IUD) for emergency contraception.3. Emergency contraception should be taken preferably within 72 hours of unprotected sexual intercourse.4. It is more effective than regular contraception like condom and pill.5. It is safe if used during menstrual period and even if you have already missed your periods.6. If you have missed your period by more than one week, then do a home pregnancy test and get in touch with gynecologist to confirm the diagnosis. Hope this helps.",
+    "match_score": 0.9999998807907104,
+    "bertscore_precision": 0.6456661820411682,
+    "bertscore_recall": 0.5277456641197205,
+    "bertscore_f1": 0.5807808041572571,
+    "semantic_similarity": 0.575374960899353
+  }
+]
